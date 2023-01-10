@@ -1,0 +1,11 @@
+GET http://localhost:3000/index HTTP/1.1
+
+content-Type: application/json
+{
+    "first-name": "Benard",
+    "last-name": "Oneka",
+    "age": 34,
+    "country": "Uganda",
+    "city": "Kampala",
+    "region": "Central"
+}
